@@ -1,0 +1,25 @@
+{
+  "id": "050cb57d-56c9-43af-8fd9-d4762bd44171",
+  "name": "Fishing App",
+  "publisher": "Dmitry Katson",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./src/logo.png",
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Blog-How-to-extend-Purchase-Sales-Line-Type-in-Business-Central.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
